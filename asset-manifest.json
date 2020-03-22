@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bookingsteps/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bookingsteps/static/js/main.55ed3be9.chunk.js",
+    "main.js.map": "/bookingsteps/static/js/main.55ed3be9.chunk.js.map",
+    "runtime-main.js": "/bookingsteps/static/js/runtime-main.554f437a.js",
+    "runtime-main.js.map": "/bookingsteps/static/js/runtime-main.554f437a.js.map",
+    "static/js/2.a736f1b8.chunk.js": "/bookingsteps/static/js/2.a736f1b8.chunk.js",
+    "static/js/2.a736f1b8.chunk.js.map": "/bookingsteps/static/js/2.a736f1b8.chunk.js.map",
+    "index.html": "/bookingsteps/index.html",
+    "precache-manifest.549697c4167f9ead5b7374ab2f18b195.js": "/bookingsteps/precache-manifest.549697c4167f9ead5b7374ab2f18b195.js",
+    "service-worker.js": "/bookingsteps/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bookingsteps/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a736f1b8.chunk.js.LICENSE.txt": "/bookingsteps/static/js/2.a736f1b8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bookingsteps/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554f437a.js",
+    "static/js/2.a736f1b8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.55ed3be9.chunk.js"
+  ]
+}

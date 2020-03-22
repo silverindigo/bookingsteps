@@ -1,0 +1,15 @@
+.btn-circular {
+    background-color: transparent !important;
+    width: 20px;
+    height: 20px;
+    border-radius: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+.qty-number {
+    font-weight: bold;
+    margin-bottom: 4px;;
+}
